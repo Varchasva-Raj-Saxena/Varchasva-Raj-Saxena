@@ -6,8 +6,10 @@
 </p>
 
 ---
+<img align="right" height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder at work" />
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding Meme"/>
+
+
 
 🎓 **Who Am I?**  
 I'm a curious engineer-in-the-making from **IIT Jodhpur**, constantly tinkering with code, machine learning models, and side-projects that sometimes work 😄. I live at the crossroads of **AI**, **web dev**, and way too many open tabs.
@@ -55,15 +57,16 @@ I speak both human and machine (but mostly to my terminal). Here's my toolbox:
 📈 **Stats & Languages**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varchasva-Raj-Saxena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Varchasva-Raj-Saxena&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Varchasva-Raj-Saxena&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" />
+ 
 </div>
+
 
 ---
 
 🔧 **Tools & Tech Logos**
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
@@ -82,7 +85,7 @@ I speak both human and machine (but mostly to my terminal). Here's my toolbox:
   <a href="mailto:sportyvarchasva@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail" />
   </a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/varchasva-raj-saxena/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin" />
   </a>
   <a href="https://github.com/Varchasva-Raj-Saxena" target="_blank">
@@ -93,6 +96,8 @@ I speak both human and machine (but mostly to my terminal). Here's my toolbox:
 ---
 
 <img src="https://raw.githubusercontent.com/Varchasva-Raj-Saxena/Varchasva-Raj-Saxena/output/snake.svg" alt="Snake animation" />
+
+
 
 ---
 
