@@ -6,10 +6,6 @@
 </p>
 
 ---
-<img align="right" height="130" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder at work" />
-
-
-
 
 🎓 **Who Am I?**  
 I'm a curious engineer-in-the-making from **IIT Jodhpur**, constantly tinkering with code, machine learning models, and side-projects that sometimes work 😄. I live at the crossroads of **AI**, **web dev**, and way too many open tabs.
