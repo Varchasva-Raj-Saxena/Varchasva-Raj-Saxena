@@ -7,6 +7,11 @@
 
 ---
 
+
+
+
+
+
 🎓 **Who Am I?**  
 I'm a curious engineer-in-the-making from **IIT Jodhpur**, constantly tinkering with code, machine learning models, and side-projects that sometimes work 😄. I live at the crossroads of **AI**, **web dev**, and way too many open tabs.
 
@@ -50,6 +55,24 @@ I speak both human and machine (but mostly to my terminal). Here's my toolbox:
 
 ---
 
+🏅 **LeetCode Journey**
+
+
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 250px; padding-right: 20px;">
+    <p>
+      Solving one problem at a time — <strong>400+ problems</strong> across arrays, DP, trees, graphs, and more.<br>
+      Always learning, always pushing. <em>Competitive coding is my caffeine ☕</em>.
+    </p>
+  </div>
+  <div style="flex-shrink: 0;">
+    <img src="https://leetcode.card.workers.dev/Varchasva_Saxena?theme=dark&font=baloo&extension=null" alt="LeetCode Stats" width="320" />
+  </div>
+</div>
+
+---
+
+
 📈 **Stats & Languages**
 
 <div align="center">
@@ -90,9 +113,7 @@ I speak both human and machine (but mostly to my terminal). Here's my toolbox:
 </div>
 
 ---
-
-<img src="https://raw.githubusercontent.com/Varchasva-Raj-Saxena/Varchasva-Raj-Saxena/output/snake.svg" alt="Snake animation" />
-
+<img src="https://github.com/Platane/platane/raw/output/github-contribution-grid-pacman.svg" alt="Pacman animation eating contributions" />
 
 
 ---
