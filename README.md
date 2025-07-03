@@ -5,12 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI/ML+Explorer;Code%2C+Create%2C+Repeat;Always+shipping+side-projects!" alt="Typing SVG" />
 </p>
 
----
-
-
-
-
-
 
 🎓 **Who Am I?**  
 I'm a curious engineer-in-the-making from **IIT Jodhpur**, constantly tinkering with code, machine learning models, and side-projects that sometimes work 😄. I live at the crossroads of **AI**, **web dev**, and way too many open tabs.
@@ -54,7 +48,6 @@ I speak both human and machine (but mostly to my terminal). Here's my toolbox:
 - Writing clean code and occasionally breaking prod for fun
 
 ---
-
 🏅 **LeetCode Journey**
 
 
@@ -71,7 +64,6 @@ I speak both human and machine (but mostly to my terminal). Here's my toolbox:
 </div>
 
 ---
-
 
 📈 **Stats & Languages**
 
@@ -113,7 +105,9 @@ I speak both human and machine (but mostly to my terminal). Here's my toolbox:
 </div>
 
 ---
-<img src="https://github.com/Platane/platane/raw/output/github-contribution-grid-pacman.svg" alt="Pacman animation eating contributions" />
+
+<img src="https://raw.githubusercontent.com/Varchasva-Raj-Saxena/Varchasva-Raj-Saxena/output/snake.svg" alt="Snake animation" />
+
 
 
 ---
